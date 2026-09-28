@@ -1,0 +1,31 @@
+# зависимости
+node_modules/
+
+# сборка
+dist/
+.vite/
+
+# временные файлы
+*.log
+npm-debug.log*
+yarn-error.log*
+*.tmp
+*.bak
+
+# окружение
+.env
+.env.local
+.env.*.local
+
+# редакторы
+.vscode/
+.idea/
+*.swp
+
+# система
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ПРИМЕЧАНИЕ: папки release/ и docs/ НЕ игнорируются —
+# там лежит готовый файл игры и скриншоты для описания.
